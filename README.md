@@ -1,1 +1,1 @@
-# Spring Cloud Repoitory
+# Spring Cloud Repository
